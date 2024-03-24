@@ -6,6 +6,8 @@ public class Sample {
 		
 		System.out.println("Hello Gitgub~!");
 		
+		System.out.println("ignore 적용되나?");
+		
 	}
 
 }
